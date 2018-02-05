@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E0E0D6DE-3CD0-4A56-8810-81B823148355}</ProjectGuid>
+    <ProjectGuid>{72CA6AE1-FC80-412A-8BDA-B9E55D2AAD68}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_07.TrafficLight</RootNamespace>
-    <AssemblyName>07.TrafficLight</AssemblyName>
+    <RootNamespace>_03.MaximumElement</RootNamespace>
+    <AssemblyName>03.MaximumElement</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

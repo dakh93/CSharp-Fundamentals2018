@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E0E0D6DE-3CD0-4A56-8810-81B823148355}</ProjectGuid>
+    <ProjectGuid>{E9E5A4C1-8617-4FE0-938D-40BE00BC8882}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_07.TrafficLight</RootNamespace>
-    <AssemblyName>07.TrafficLight</AssemblyName>
+    <RootNamespace>_06.TruckTour</RootNamespace>
+    <AssemblyName>06.TruckTour</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

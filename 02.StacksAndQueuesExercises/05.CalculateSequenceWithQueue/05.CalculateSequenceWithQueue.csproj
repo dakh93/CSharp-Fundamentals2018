@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E0E0D6DE-3CD0-4A56-8810-81B823148355}</ProjectGuid>
+    <ProjectGuid>{AE4C9F2A-44E1-4731-9A37-712118FD033E}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_07.TrafficLight</RootNamespace>
-    <AssemblyName>07.TrafficLight</AssemblyName>
+    <RootNamespace>_05.CalculateSequenceWithQueue</RootNamespace>
+    <AssemblyName>05.CalculateSequenceWithQueue</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

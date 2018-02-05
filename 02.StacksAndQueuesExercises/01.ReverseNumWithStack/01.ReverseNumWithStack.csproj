@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{E0E0D6DE-3CD0-4A56-8810-81B823148355}</ProjectGuid>
+    <ProjectGuid>{0CBC328F-0B47-484B-9B20-DC3E66A991CC}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_07.TrafficLight</RootNamespace>
-    <AssemblyName>07.TrafficLight</AssemblyName>
+    <RootNamespace>_01.ReverseNumWithStack</RootNamespace>
+    <AssemblyName>01.ReverseNumWithStack</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
